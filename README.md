@@ -1,6 +1,6 @@
 # discountNotifier
 
-This project helps you  to get an Notification messages wherever price of your selected product decreases
+This project helps you  to get an Notification messages whenever price of your selected product decreases
 
 This project is totally done in Python
 
